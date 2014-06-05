@@ -1,4 +1,3 @@
-ezpoco
+EZPoco
 ======
-
-When all you want are just some damn POCOs
+A light version of the original PetaPoco T4 templates intended to only generate POCOs.
